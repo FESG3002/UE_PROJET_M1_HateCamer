@@ -220,7 +220,7 @@ L'API est déployée sur Hugging Face Spaces :
 |-----|-----------|-----------|
 | **FOTSING ENGOULOU SIMON GAETAN** | 21Q2024 | https://github.com/FESG3002/ | 
 | **NDONKOU FRANCK** | 21T2254 | | 
-| **TCHIAZE FOUOSSO ROMERO** | 21T2474 | | 
+| **TCHIAZE FOUOSSO ROMERO** | 21T2474 | https://github.com/Prog-romero | 
 
 
 **Encadrant** : Dr. Messi Thomas
