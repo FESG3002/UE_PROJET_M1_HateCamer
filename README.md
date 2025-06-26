@@ -99,10 +99,10 @@ print(f"Confiance: {result['confidence']}")
 
 | Métrique | Valeur |
 |----------|--------|
-| **Accuracy** | 73% |
-| **Précision (classe haineuse)** | 67% |
-| **Rappel (classe haineuse)** | 52% |
-| **F1-Score (macro)** | 69% |
+| **Accuracy** | 75% |
+| **Précision (classe haineuse)** | 73% |
+| **Rappel (classe haineuse)** | 78% |
+| **F1-Score (macro)** | 77% |
 | **Latence d'inférence** | 320ms |
 
 ### 🎯 Stratégie d'Évaluation
@@ -250,7 +250,7 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 ## 📞 Contact & Support
 
 - **Issues GitHub** : Pour les bugs et demandes de fonctionnalités
-- **Email** : [fotsingengoulou@gmail.com] pour les questions académiques
+- **Email** : [fotsingengoulou@gmail.com, romerotchiazefouosso@gmail.com, popitofranck873@gmail.com] pour les questions académiques
 - **Documentation** : Consultez le dossier `docs/` pour plus de détails techniques
 
 ## 🙏 Remerciements
